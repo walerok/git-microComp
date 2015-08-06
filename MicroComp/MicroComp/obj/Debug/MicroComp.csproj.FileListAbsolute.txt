@@ -1,0 +1,8 @@
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\bin\Debug\MicroComp.exe
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\bin\Debug\MicroComp.pdb
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.csprojResolveAssemblyReference.cache
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.Form1.resources
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.Properties.Resources.resources
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.csproj.GenerateResource.Cache
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.exe
+C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.pdb
