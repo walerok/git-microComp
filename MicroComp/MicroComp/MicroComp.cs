@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace MicroComp
 {
-    public partial class Form1 : Form
+    public partial class MicroComp : Form
     {
-        public Form1()
+        public MicroComp()
         {
             InitializeComponent();
         }

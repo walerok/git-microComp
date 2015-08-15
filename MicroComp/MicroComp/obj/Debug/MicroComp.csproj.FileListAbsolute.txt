@@ -6,3 +6,11 @@ C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\
 C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.csproj.GenerateResource.Cache
 C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.exe
 C:\Users\Валерий\Documents\Visual Studio 2013\Projects\GitProj\MicroComp\MicroComp\MicroComp\obj\Debug\MicroComp.pdb
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.exe
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.pdb
+C:\Users\hely\git-microComp\MicroComp\MicroComp\bin\Debug\MicroComp.exe
+C:\Users\hely\git-microComp\MicroComp\MicroComp\bin\Debug\MicroComp.pdb
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.csprojResolveAssemblyReference.cache
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.MicroComp.resources
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.Properties.Resources.resources
+C:\Users\hely\git-microComp\MicroComp\MicroComp\obj\Debug\MicroComp.csproj.GenerateResource.Cache

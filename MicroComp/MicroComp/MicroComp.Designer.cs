@@ -1,6 +1,6 @@
 ﻿namespace MicroComp
 {
-    partial class Form1
+    partial class MicroComp
     {
         /// <summary>
         /// Требуется переменная конструктора.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MicroComp));
             this.label1 = new System.Windows.Forms.Label();
             this.buttonLoad = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -51,14 +52,16 @@
             this.buttonLoad.UseVisualStyleBackColor = true;
             this.buttonLoad.Click += new System.EventHandler(this.buttonLoad_Click);
             // 
-            // Form1
+            // MicroComp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(696, 444);
             this.Controls.Add(this.buttonLoad);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "MicroComp";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "МикроКомп";
             this.ResumeLayout(false);
             this.PerformLayout();
