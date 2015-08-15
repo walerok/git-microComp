@@ -18,7 +18,8 @@ namespace MicroComp
 
         private void buttonLoad_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("тест загрузки ресурсов");
+
+            MessageBox.Show("Тест загрузки ресурсов", "Тест");
         }
     }
 }
